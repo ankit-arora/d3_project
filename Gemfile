@@ -5,6 +5,7 @@ gem 'bootstrap-sass', '2.3.2.2'
 gem 'bundler', '1.3.5'
 gem 'passenger', '4.0.16'
 gem 'mysql2', '0.3.12b5'
+gem 'd3js-rails', '3.1.6'
 
 group :development, :test do
   gem 'rspec-rails', '2.14.0'
